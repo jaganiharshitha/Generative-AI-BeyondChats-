@@ -35,5 +35,5 @@ REDDIT_USER_AGENT = "script:reddit-user-persona:v1.0 (by u/your_username)"
 
 ## 📄 Example Output
 
-See `output/kojied_persona.txt` for a sample persona generated from real Reddit activity.
+See `kojied_persona(output).txt` for a sample persona generated from real Reddit activity.
 This script only uses public data. Generated personas are fictional summaries based on behavioral patterns, not definitive character assessments.
