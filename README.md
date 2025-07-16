@@ -32,20 +32,8 @@ REDDIT_USER_AGENT = "script:reddit-user-persona:v1.0 (by u/your_username)"
 4. Run the script and enter a Reddit username (e.g. `kojied`).
 5. A `.txt` file will be generated in the `output/` directory.
 
-## 📁 Folder Structure
-
-```
-.
-├── main.py
-├── requirements.txt
-├── output/
-│   └── kojied_persona.txt
-```
 
 ## 📄 Example Output
 
 See `output/kojied_persona.txt` for a sample persona generated from real Reddit activity.
-
-## 🧑‍⚖️ Disclaimer
-
 This script only uses public data. Generated personas are fictional summaries based on behavioral patterns, not definitive character assessments.
