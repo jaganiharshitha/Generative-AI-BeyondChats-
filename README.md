@@ -30,7 +30,7 @@ REDDIT_SECRET = "your_secret"
 REDDIT_USER_AGENT = "script:reddit-user-persona:v1.0 (by u/your_username)"
 ```
 4. Run the script and enter a Reddit username (e.g. `kojied`).
-5. A `.txt` file will be generated in the `output/` directory.
+5. A `.txt` file will be generated, this is the final output.
 
 
 ## 📄 Example Output
